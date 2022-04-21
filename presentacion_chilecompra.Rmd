@@ -20,7 +20,7 @@ class: center, middle
 .linea-inferior[]
 
 
-<img src="imagenes/logo-chilecompra.JPG" width="400" />
+<img src="imagenes/logo-chilecompra.jpg" width="400" />
 
 
 ## Experiencias relevantes y aportes para el cargo
@@ -109,7 +109,7 @@ class: center, middle
 .linea-inferior[]
 
 
-<img src="imagenes/logo-chilecompra.JPG" width="400" />
+<img src="imagenes/logo-chilecompra.jpg" width="400" />
 
 
 ## Experiencias relevantes y aportes para el cargo
