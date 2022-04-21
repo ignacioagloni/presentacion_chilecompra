@@ -97,13 +97,13 @@ background-position: 100% 0%
 .pull-left[**Paquete en R para** evaluación de precisión de estimaciones en encuestas. Link repositorio en GitHub: [paquete calidad](https://github.com/inesscc/calidad)]
 
 
-.pull-rigth[<img src="imagenes/calidad.gif" width="270">]
+.pull-rigth[<img src="imagenes/calidad.gif" width="280">]
 
 --
 
 .pull-left[API para **codificación automática** de clasificadores con *machine learning*. Link repositorio en GitHub: [INE classifiers](https://github.com/inesscc/ineclassifiers)]
 
-.pull-rigth[<img src="imagenes/api_classifiers.gif" width="270">]
+.pull-rigth[<img src="imagenes/api_classifiers.gif" width="280">]
 
 ---
 
@@ -138,10 +138,6 @@ Diseño de estándares de **arquitecturas de información** para procesamiento d
 --
 
 Gestión presupuestaria piloto Casen 2022
-
---
-
-Diseño de aplicación de **gestión presupuestaria** para el INE (iniciando desarrollo)
 
 ---
 
