@@ -62,7 +62,7 @@ background-position: 100% 0%
 
 --
 
-- .medium-par[Magister**(c)** en Tecnologías de la Informacíón, Universidad de Chile]
+- .medium-par[Magister**(c)** en Tecnologías de la Información, Universidad de Chile]
 
 --
 
@@ -75,31 +75,124 @@ background-position: 100% 0%
 --
 
 - .medium-par[Jefe de Proyecto Servicios Compartidos para la Producción Estadística, INE]
-- .medium-par[Jefe de Proyecto Piloto por cambio de marco Casen 2022, INE]
+
+--
+
+- .medium-par[Jefe de Proyecto Piloto por cambio de marco Casen 2022, INE con MDSF]
 
 ---
 
-background-image: url("imagenes/fondo2.PNG")
+background-image: url("imagenes/fondo-cc-up.PNG")
 background-size: contain;
 background-position: 100% 0%
 
-# Estructura PE SSCC
+# Experiencias relevantes para el cargo
 
-<img src="imagenes/calidad.gif" width="350">
+--
 
-.right[<img src="imagenes/cod_automatica.gif" width="350">]
+- **Liderazgo en desarrollo de iniciativas de modernización tecnológica** para mejorar la **eficiencia y eficacia** en el negocio
+
+</br>
+</br>
+--
+
+.pull-left[**Paquete en R para** evaluación de precisión de estimaciones en encuestas. Link repositorio en GitHub: [paquete calidad](https://github.com/inesscc/calidad)]
 
 
+.pull-rigth[<img src="imagenes/calidad.gif" width="300">]
+
+--
+
+.pull-left[API para **codificación automática** de clasificadores con *machine learning*. Link repositorio en GitHub: [INE classifiers](https://github.com/inesscc/ineclassifiers)]
+
+.pull-rigth[<img src="imagenes/cod_automatica.gif" width="300">]
 
 ---
 
-background-image: url("imagenes/fondo2.PNG")
+background-image: url("imagenes/fondo-cc-up.PNG")
 background-size: contain;
 background-position: 100% 0%
 
-# Estructura PE SSCC
+# Experiencias relevantes para el cargo
 
-![](imagenes/estructura_sscc2.PNG)
+--
+
+- **Liderazgo en desarrollo de iniciativas de modernización tecnológica** para mejorar la **eficiencia y eficacia** en el negocio
+
+</br>
+
+--
+
+**Capacitación institucional R y herramientas de productividad** (aprox 180 personas)
+
+
+--
+
+Diseño de estándares de **arquitecturas de información** para procesamiento de datos
+
+--
+
+</br>
+
+- Experiencia en **manejo de presupuestos en el Estado** y como **comprador público**
+
+</br>
+
+--
+
+Gestión presupuestaria piloto Casen 2022
+
+--
+
+Diseño de aplicación de **gestión presupuestaria** para el INE (iniciando desarrollo)
+
+---
+
+background-image: url("imagenes/fondo-cc-up.PNG")
+background-size: contain;
+background-position: 100% 0%
+
+# Aportes para el cargo
+
+--
+
+</br>
+
+- Conocimiento en **validación**, **depuración** y **analítica** aplicable a los datos producidos para la labor de fiscalización del observatorio
+
+--
+
+- Revisión y mejora de **arquitecturas de información** en el Observatorio 
+
+--
+
+- Revisión y mejora de flujos de procesamiento de datos para lograr **reproducibilidad**, **replicabilidad**, **trazabilidad**
+
+--
+
+- **Reportería automatizada** de indicadores para clientes internos y usuarios externos
+
+--
+
+- Generación de *dashboards* de indicadores y visualizaciones para difundir el trabajo del Depto con el ecosistema de compras públicas y la ciudadanía, desde una perspectiva de **probidad** y **transparencia**
+
+---
+
+background-image: url("imagenes/fondo-cc-up.PNG")
+background-size: contain;
+background-position: 100% 0%
+
+# Aportes para el cargo
+
+--
+
+</br>
+
+- Investigar e implementar **metodologías de *machine learning* e IA para construir herramientas de prevención y detección de errores**, con alto potencial en detección temprana y priorización de revisión directa.
+
+--
+
+- **Estimular un buen clima de trabajo en el equipo** y el **aprendizaje continuo** de herramientas de productividad
 
 ---
 
